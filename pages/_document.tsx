@@ -6,7 +6,7 @@ export default function Document() {
       <Head />
       <body>
         <Main />
-        <NextScript />
+        <NextScript />{/* it render over "index.tsx" page */}
       </body>
     </Html>
   );
