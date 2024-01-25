@@ -1,4 +1,4 @@
-//1:46:00
+//Class-9 1:46:00
 import React, { useEffect, useState } from 'react'
 
 export default function Counter() {
@@ -84,4 +84,4 @@ const CounterBody = () => {
     )
 }
 
-//2:3:00 lifeCycles
+//Class-9 2:03:00 lifeCycles
