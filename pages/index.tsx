@@ -19,7 +19,7 @@ export default function Home() {
         <h1>
           <li>
             Routing
-            <h5>Next me Routing krne k liye "pages" k folder me "file" banao or uski Route ready hojayegi apne bus uska Name use krna hai</h5>
+            <h5>Next me Routing krne k liye "pages" k folder me "file" banao or uski Route ready hojayegi apne bus "file/folder" k Name use krna hai</h5>
             <h5>type in URL "/child2" ya '/blog' q k humne "pages" k folder is name ki file bana hai... Yad rhy ye caseSensitive hai</h5>
           </li>
         </h1>
